@@ -1,5 +1,5 @@
 Usage:
-Use this by running through the notebook cells, and change the two strings at the top to the desired file name.
+Use this by running through the notebook cells in outliner.ipynb, and change the two strings at the top to the desired file name (use a provided picture or download your own!).
 
 Image process 
 Greyscale
